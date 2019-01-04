@@ -1,0 +1,24 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+
+<breakfast_menu>
+    <food> 
+        <name country = "England"> Belgian Waffle </name>
+        <price>$5.95</price>
+        <description>Famous Balgian Waffels with maple syrup</description>
+        <calories>650</calories>
+    </food>
+
+    <food> 
+        <name country = "France"> French Toast </name>
+        <price>$5.95</price>
+        <description>Homemade sourdough bread</description>
+        <calories>600</calories>
+    </food>
+
+    <food> 
+        <name country = "Malaysia"> Homestyle Breakfast</name>
+        <price>$6.95</price>
+        <description>Two eggs. bacon or sausage</description>
+        <calories>950</calories>
+    </food>
+</breakfast_menu>

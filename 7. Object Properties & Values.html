@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Object Properties & Values</title>
+</head>
+
+<body>
+    <p>Creating a JavaScript Object</p>
+    <p id="simple value"></p>
+    <p id="many values"></p>
+</body>
+<script>
+    var car = {
+        type: "KiSas",
+        model: 9500,
+        color: "sliver"
+    };
+    document.getElementById("simple value").innerHTML = car.type;
+    document.getElementById("many values").innerHTML = car.type + " " +
+        car.model + " " + car.color
+</script>
+
+</html>

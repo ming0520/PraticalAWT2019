@@ -1,0 +1,25 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<?xml-stylesheet type = "text/xsl" href = "18.Breakfast_Menu.XSL"?>
+
+<breakfast_menu>
+	<food>
+		<name>Belgian Waffles</name>
+		<price>$5.95</price>
+		<description>Famous Belgian Waffles with maple syrup</description>
+		<calories>650</calories>
+	</food>
+
+	<food>
+		<name>French Toast</name>
+		<price>$4.50</price>
+		<description>Homemade sourgough bread</description>
+		<calories>600</calories>
+	</food>
+
+	<food>
+		<name>Homestyle Breakfast</name>
+		<price>$6.95</price>
+		<description>Two eggs, bacon or sausage</description>
+	</food>
+</breakfast_menu>
